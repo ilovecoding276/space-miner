@@ -28,7 +28,7 @@ Space Miner is a browser-based arcade game where the player controls a spaceship
 - HTML Canvas
 
 ## Live Game
-(https://github.com/ilovecoding276/space-miner)
+(https://ilovecoding276.github.io/space-miner/)
 
 ## Repository
 (https://github.com/ilovecoding276/space-miner)
